@@ -1,4 +1,4 @@
-# Parallax Scrool
+# Parallax Scroll
 
 Use a parallax scroll to move a background-image, and text at speed you can adjust
 
